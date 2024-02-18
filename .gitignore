@@ -5,3 +5,4 @@ cache
 
 #dependencies
 node_modules
+.idea
