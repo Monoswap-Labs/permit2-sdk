@@ -1,6 +1,6 @@
 {
   "name": "@monoswap-labs/permit2-sdk",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "An sdk for interacting with permit2.",
   "publishConfig": {
     "access": "public"
